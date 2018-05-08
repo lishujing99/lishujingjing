@@ -1,0 +1,9 @@
+a=21
+b=10
+c=0
+result=a+b-c
+print('result=a+b-c',result)
+a=2
+b=3
+c=a**b
+print('c=a**b',c)
