@@ -1,0 +1,11 @@
+import random
+a=random.randint(1,7)
+b=random.randint(1,7)
+c=random.randint(1,7)
+d=random.randint(1,7)
+e=random.randint(1,7)
+f=random.randint(1,7)
+print('不要着急呀...')
+print('幸运星是：%d ,幸运星是：%d ' % (a,b))
+print('幸运星是：%d ,幸运星是：%d ' % (c,d))
+print('幸运星是：%d ,幸运星是：%d ' % (e,f))
