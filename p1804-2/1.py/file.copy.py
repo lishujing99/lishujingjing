@@ -1,0 +1,6 @@
+f=open('唐诗2.txt','r')
+a=f.read()
+print(a)
+f1=open('糖糖.txt','w')
+f1.write(a)
+f1.close()
